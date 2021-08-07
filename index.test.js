@@ -1,5 +1,5 @@
-const reservarHotel = require("./hotel")
-const listaHoteis = require("./listaHoteis")
+const reservarHotel = require("./Hotel")
+const listaHoteis = require("./Hotel/listaHoteis")
 
 test("Para os cliente regular o hotel mais indicado é Parque das flores", () =>
     expect(reservarHotel("regular", [new Date(2020, 2, 16), new Date(2020, 2, 17), new Date(2020, 2, 18)], listaHoteis())).toBe("Parque das flores"))
