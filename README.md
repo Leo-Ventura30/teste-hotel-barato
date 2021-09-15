@@ -1,1 +1,3 @@
-## exercicio feito para demonstrar meu conhecimento no desafio DIO
+## exercicio DIO - git/github
+
+Feito para demonstrar o meu conhecimento no desafio.
